@@ -3,7 +3,6 @@
 I am Aaron Chan, an undergraduate student.
 
 - 🌱 I’m currently learning Go and Rust.
-- 🤔 I've recently been building a set of cryptographic algorithms using Python3 (related to my undergraduate thesis).
 - 💬 Ask me about anything!
 - 📫 How to reach me: [e-mail](mailto:cs.yelling123@passinbox.com)
 - ⚡ Fun fact: I'm a full-time daydreamer, programming for fun.
@@ -23,7 +22,6 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
 ## About Some Projects
 
-- [Cryptology Tools](https://github.com/usaronchan/My-Cryptology-Tools): Sorry, there was an irreversible error in this algorithm, and I deleted the entire repository.
 - [Aaron's Notebook](https://github.com/usaronchan/aaron-notebook): ![GitHub repo size](https://img.shields.io/github/repo-size/usaronchan/aaron-notebook) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/usaronchan/aaron-notebook)
 
 <div align="center">
