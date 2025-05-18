@@ -9,16 +9,20 @@ I am Aaron Chan, an undergraduate student.
 
 My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
-- [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) [![OS:Debian](https://img.shields.io/badge/OS-Debian-blue?style=flat-square&logo=debian)](https://www.debian.org/) [![OS:Win11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square)](https://www.microsoft.com/en-us/software-download/windows11)
+- [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) [![OS:Debian](https://img.shields.io/badge/OS-Debian-blue?style=flat-square&logo=debian)](https://www.debian.org/) [![OS:KaliLinux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat-square&logo=Kali-Linux)](https://www.kali.org/) [![OS:Win11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square)](https://www.microsoft.com/en-us/software-download/windows11)
 - [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-green?style=flat-square&logo=neovim)](https://neovim.io/) [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-purple?style=flat-square)](https://code.visualstudio.com/)
 - [![Email](https://img.shields.io/badge/Email-cs.yelling123@passinbox.com-pink?style=flat-square)](mailto:cs.yelling123@passinbox.com)
 - [![Blog](https://img.shields.io/badge/Blog-chanzzblog.pages.dev-green?style=flat-square)](https://chanzzblog.pages.dev/) [![Homepage](https://img.shields.io/badge/Homepage-zwchen.pages.dev-red?style=flat-square)](https://zwchen.pages.dev/)
 
-### Math
+## Math
+
+### Publications
 
 - [![Book:Hanky](https://img.shields.io/badge/Book-The_Hanky_project-purple?style=flat-square)](https://zwchen.pages.dev/hanky) [![Book:AGWT](https://img.shields.io/badge/Book-Algebraic_Geometry_Without_Tears-purple?style=flat-square)](https://zwchen.pages.dev/agwt)
 
-### CS
+## CS
+
+### Projects
 
 ## About Some Projects
 
